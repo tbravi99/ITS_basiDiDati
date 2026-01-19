@@ -1,0 +1,3 @@
+riga file1 n.1
+riga file1 n.2
+riga file1 n.3
