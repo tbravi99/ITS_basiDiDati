@@ -4,3 +4,4 @@ riga file1 n.3
 riga file1 n.4
 riga file1 n.5
 riga da master
+modifica da int satispay
