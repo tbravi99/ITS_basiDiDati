@@ -10,3 +10,4 @@ riga file1 n.9
 riga file1 n.10
 riga file1 n.11 da local repo
 riga file1 n.11 da github
+riga file1 n.12 da github
